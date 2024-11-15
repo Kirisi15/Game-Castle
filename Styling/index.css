@@ -1,0 +1,19 @@
+header{
+    background:#0c0c0c;
+    height:80px;
+    text-align: center;
+    margin: 10px;
+    padding: 25px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 59px;
+    color: aliceblue;
+}
+body{
+
+        background: radial-gradient(circle, #010aa6, #a209a8);
+        height: 100vh;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }      
